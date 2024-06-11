@@ -1,0 +1,11 @@
+Timestamp,"Product Definition",Quantity,"Supplier Details","Company KRA Pin",VAT,Price
+"2024-06-09 11:15:08",gel,7,"071233456778
+joseph",A1000000000B,0.16,20
+"2024-06-09 12:17:30",gel,7,"071233456778
+joseph",A1000000000B,0.16,20
+[Products]
+"Product Name",SKU,"Unit of Breaking Bulk"
+"Miadi Hair Food 35g",MHF35,12Pcs
+"2024-06-09 13:13:41",gel,2,John,A1000000000B,0.16,1000
+"2024-06-09 17:50:48",rrtt,2,ddddd,A1000000000B,0.03,20
+"2024-06-09 17:51:47",rrtt,2,ddddd,A1000000000B,0.03,20
